@@ -8,7 +8,7 @@ A simple yet customizable horizontal picker view.
 
 The __Swift__ port of [AKPickerView](https://github.com/Akkyie/AKPickerView).
 
-Works on iOS 7 and 8.
+Works Swift 4.2.
 
 Installation
 ------------
@@ -16,7 +16,7 @@ Installation
 ###[CocoaPods](http://cocoapods.org/):
 In your `Podfile`:
 ```
-pod "AKPickerView-Swift"
+pod "AKPickerView-Swift", :git => 'https://github.com/ahmetmvural1/AKPickerView-Swift'
 ```
 And in your `*.swift`:
 ```swift
@@ -93,7 +93,7 @@ For more detail, see the sample project.
 Contact
 -------
 
-@akkyie http://twitter.com/akkyie
+@ahmetmvural https://twitter.com/ahmetmvural
 
 License
 -------
